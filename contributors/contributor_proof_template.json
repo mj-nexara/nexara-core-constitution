@@ -1,0 +1,22 @@
+{
+  "contributor": {
+    "name": "[Full Name]",
+    "wallet": "[ETH Wallet]",
+    "preferred_identifier": "[@username / DID]",
+    "date_of_intent": "YYYY-MM-DD",
+    "linked_identity": "[Optional Manifest CID]",
+    "declared_via": "ipfs",
+    "commitment_statement": "I hereby declare my intent to contribute ethically."
+  },
+  "ethics": {
+    "understands_accord": true,
+    "commits_to_public_verifiability": true,
+    "agrees_to_non-extractive_contribution": true,
+    "accepts_peer_review": true
+  },
+  "signature": {
+    "typed_by": "[Contributor]",
+    "timestamp": "YYYY-MM-DDTHH:mm:ssZ",
+    "identity_reference": "[if available]"
+  }
+}
